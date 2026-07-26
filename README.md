@@ -139,7 +139,7 @@ AI API integrations (Claude, OpenAI). I'm also expanding into RAG systems and lo
 </td>
 <td width="50%" valign="top">
 
-### 🌱 JADDIDNI &nbsp;<img src="https://img.shields.io/badge/IN_DEVELOPMENT-8B949E?style=flat-square" alt="in development"/>
+### 🌱 Neuchapter &nbsp;<img src="https://img.shields.io/badge/IN_DEVELOPMENT-8B949E?style=flat-square" alt="in development"/>
 
 > A personal self-improvement and habit-recovery application designed to help users manage daily routines, reduce harmful habits, and build healthier behavior patterns.
 
