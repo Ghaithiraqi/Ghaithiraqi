@@ -65,9 +65,10 @@ currently_learning:
 mindset: "Learning by building practical projects step by step."
 ```
 
-I am building my developer profile through practical software projects, with interests in **web development**, **software engineering**, **AI-powered applications**, **RAG systems**, **networking**, and **frontend UI/UX**.
-
-My current focus is to improve my technical skills by building real projects that combine clean interfaces, organized architecture, and useful software ideas.
+I'm Ghaith — a Computer Engineering student building full-stack web applications, with a
+production wellness app (Neuchapter) live and a graduation project (STICH-LIFE) in progress.
+I work across the full stack: Next.js, React, Prisma/PostgreSQL, authentication systems, and
+AI API integrations (Claude, OpenAI). I'm also expanding into RAG systems and local AI concepts.
 
 <br/>
 
